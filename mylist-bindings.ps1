@@ -1,6 +1,6 @@
 Set-ExecutionPolicy Bypass -scope Process -Force
 Import-Module WebAdministration
-Write-Host " ";
+Write-Host "";
 $hostname = hostname
 $Websites = Get-WebSite
 $date = (Get-Date).ToString('MMddyyyy')

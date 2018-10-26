@@ -12,4 +12,3 @@ unzip -o -u d:\deploy\GlobalBoxOffice.zip -d D:\Sites\GlobalBoxOffice
 unzip -o -u d:\deploy\Integrations.zip -d D:\Sites\Integrations
 unzip -o -u d:\deploy\SelfServe.zip -d D:\Sites\SelfServe
 echo even
-echo shit

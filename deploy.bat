@@ -21,4 +21,4 @@ REM start 7z -y x d:\deploy/Integrations.zip -oD:\Sites\Integrations
 unzip -o -u d:\deploy\Integrations.zip -d D:\Sites\Integrations
 REM start 7z -y x d:\deploy/SelfServe.zip -oD:\Sites\SelfServe
 unzip -o -u d:\deploy\SelfServe.zip -d D:\Sites\SelfServe
-echo even faster
+echo even fasterest
